@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oapatil
+- 👋 Hi, I’m Omkar Patil [@oapatil]
 - 👀 I’m interested in in Data Science and Software Development.
 - 🌱 I’m currently pursuing my Masters in Science degree in Computer Science.
 - 💞️ I’m looking to collaborate on Data Science and Software Development projects.
